@@ -7,10 +7,6 @@ public class Calculator {
 
 		System.out.println("Hello Wordl");
 	}
-    public static void add(int num1,int num2){​​​​​​​
-    	System.out.println(num1+num2);
-    }​​​​​​​
-
 
 
 }
