@@ -30,6 +30,9 @@ public class Calculator {
 		System.out.println(num*num*num*num);
 	}
 
+	public static void br1fun1(int num){
+		System.out.println(num*num);
+	}
 
 
 }
