@@ -31,6 +31,11 @@ public class Calculator {
 	}
 	
 
+	public void extra(int num){
+		System.out.println(num*num*num*num);
+	}
+
+
 
 
 }
